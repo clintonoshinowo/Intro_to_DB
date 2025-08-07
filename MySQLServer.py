@@ -19,7 +19,7 @@ def create_database():
         )
         cursor = connection.cursor()
 
-        db_name = "alx_book_store"
+        db_name = "alxbookstore"
 
         # SQL query to create the database if it doesn't exist
         # This prevents the script from failing if the database is already there
