@@ -5,8 +5,8 @@ from mysql.connector import errorcode
 # Your database connection credentials
 # NOTE: Replace with your actual username and password
 DB_HOST = 'localhost'
-DB_USER = 'your_username'
-DB_PASSWORD = 'your_password'
+DB_USER = 'clintonoshinowo'
+DB_PASSWORD = '@Lamp1235'
 
 def create_database():
     """Connects to MySQL and creates the alx_book_store database."""
